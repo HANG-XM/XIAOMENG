@@ -8,6 +8,6 @@
 ## 下载说明
 [下载链接](https://github.com/HANG-XM/XIAOMENG/releases)
 
-梦幻框架请将[小梦.dll]改为[cc.hanghang.xiaomeng.dll]
+梦幻框架请将 [小梦.dll] 改为 [cc.hanghang.xiaomeng.dll]
 
-MQ系列框架请将[小梦.dll]改为[小梦.mq.dll]
+MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
