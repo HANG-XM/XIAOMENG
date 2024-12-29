@@ -4,7 +4,7 @@
 ## 使用须知
  请不要使用小梦进行违法违规行为
 ## 框架支持
- NTQQ系列（七七，Eb），梦幻，MYQQ系列[Remix框架]，小栗子系列[Panda框架]，QY，Oiva 
+ NTQQ系列（七七，Eb.Bq），梦幻，MYQQ系列[Myqq,Remix]，小栗子系列[Panda,小栗子，QY]，Oiva 
 ## 下载说明
 [下载链接](https://github.com/HANG-XM/XIAOMENG/releases)
 
