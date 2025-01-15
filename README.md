@@ -11,3 +11,5 @@
 梦幻框架请将 [小梦.dll] 改为 [cc.hanghang.xiaomeng.dll]
 
 MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
+## 小梦WIKI
+[访问链接](https://github.com/HANG-XM/XIAOMENG/wiki)
