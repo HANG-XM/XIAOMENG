@@ -1,8 +1,4 @@
-# XIAOMENG
-小梦QQ机器人插件-小梦 QQ Robot Plug-in
-
-## 使用须知
- 请不要使用小梦进行违法违规行为
+# XIAOMENG QQ Robot Plug-in
 ## 菜单召唤
  小梦菜单
 ## 框架支持
@@ -15,3 +11,5 @@
 MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
 ## 小梦WIKI
 [访问链接](https://github.com/HANG-XM/XIAOMENG/wiki)
+
+ 请不要使用小梦进行违法违规行为
