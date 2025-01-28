@@ -1,4 +1,7 @@
 # XIAOMENG QQ Robot Plug-in
+##  
+作者：阿挽
+
 ## 菜单召唤
  小梦菜单
 ## 框架支持
