@@ -14,6 +14,7 @@
 MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
 
 bee框架为了正常使用请发送：绑定
+【如果有闪退出现，请先在框架内删除小梦，再添加进入】
 ## 小梦WIKI
 [访问链接](https://github.com/HANG-XM/XIAOMENG/wiki)
 
