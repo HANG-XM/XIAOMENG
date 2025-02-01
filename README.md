@@ -5,7 +5,7 @@
 ## 菜单召唤
  小梦菜单
 ## 框架支持
- NTQQ系列（七七，Eb，Bq），梦幻，MYQQ系列[Myqq,Remix]，小栗子系列[Panda,小栗子，QY]，Oiva 
+官方系列(Bee，晚点) NTQQ系列（七七，Eb，Bq），梦幻，MYQQ系列[Myqq,Remix]，小栗子系列[Panda,小栗子，QY]，Oiva 
 ## 下载说明
 [下载链接](https://github.com/HANG-XM/XIAOMENG/releases)
 
@@ -14,7 +14,8 @@
 MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
 
 bee框架为了正常使用请发送：绑定
-【如果有闪退出现，请先在框架内删除小梦，再添加进入】
+
+   【如果有闪退出现，请先在框架内删除小梦，再添加进入】
 ## 小梦WIKI
 [访问链接](https://github.com/HANG-XM/XIAOMENG/wiki)
 
