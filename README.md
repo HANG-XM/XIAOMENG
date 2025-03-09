@@ -20,3 +20,5 @@ MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
 [访问链接](https://github.com/HANG-XM/XIAOMENG/wiki)
 
  请不要使用小梦进行违法违规行为
+ 
+[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) [LLOneBot](https://github.com/LLOneBot/LLOneBot) [NapCat](https://github.com/NapNeko/NapCatQQ)
