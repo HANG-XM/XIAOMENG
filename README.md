@@ -1,12 +1,5 @@
 # XIAOMENG QQ Robot Plug-in
 
-# 最近规划：
-> [!TIP] 
-> 由于旧版本架构设计理念老旧，后期维护，更新难度大
-> 
-> 将预计在 3.0.0 完成初步重构以提高效率与兼容性
-
-[抢先体验](https://github.com/HANG-XM/XIAOMENG/blob/main/Test/%E5%B0%8F%E6%A2%A6.dll)
 ##  
 作者：阿挽
 
