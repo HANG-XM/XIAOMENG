@@ -22,4 +22,4 @@ MQ系列框架请将 [小梦.dll] 改为 [小梦.mq.dll]
 
  请不要使用小梦进行违法违规行为
  
-[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) [LLOneBot](https://github.com/LLOneBot/LLOneBot) [NapCat](https://github.com/NapNeko/NapCatQQ)
+[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) [LLOneBot](https://github.com/LLOneBot/LLOneBot) [NapCat](https://github.com/NapNeko/NapCatQQ) [Astrbot](https://github.com/AstrBotDevs/AstrBot) [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) [Discord](https://discord.com/) [KOOK](https://www.kookapp.cn/) [QQ开发平台](https://q.qq.com/#/) [Slack](https://slack.com/) [voce.chat](https://voce.chat/)
