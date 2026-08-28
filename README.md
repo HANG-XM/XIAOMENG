@@ -8,8 +8,10 @@
 [![平台](https://img.shields.io/badge/平台-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/HANG-XM/XIAOMENG)
 [![官网](https://img.shields.io/badge/官网-小梦-3B82F6?style=flat-square&logo=githubpages)](https://xiaomengweb.pages.dev/)
 [![GitHub Release](https://img.shields.io/github/v/release/HANG-XM/XIAOMENG?style=flat-square&logo=github)](https://github.com/HANG-XM/XIAOMENG/releases)
+[![爱发电](https://img.shields.io/badge/赞助-爱发电-f5b5b5?style=flat-square&logo=githubsponsors)](https://afdian.com/a/awanxm)
 
 </div>
+
 
 ---
 
@@ -18,6 +20,9 @@
 小梦（XIAOMENG）是一款专为 QQ 机器人设计的**娱乐 + 群管**插件。开箱即用，轻量稳定，把繁琐的群务交给小梦，把时间还给群友。
 
 > 🔗 **官网**：[https://xiaomengweb.pages.dev/](https://xiaomengweb.pages.dev/)
+>
+> ☕ **赞助支持**：[爱发电 · 请我喝杯奶茶](https://afdian.com/a/awanxm)
+
 
 ---
 
@@ -34,6 +39,7 @@
 
 > 完整功能列表请查看 [功能文档](https://github.com/HANG-XM/XIAOMENG/wiki)
 
+
 ---
 
 ## 📦 下载
@@ -45,6 +51,7 @@
 ### 历史版本
 
 所有历史版本请访问 **[Releases 页面](https://github.com/HANG-XM/XIAOMENG/releases)**
+
 
 ---
 
@@ -61,6 +68,7 @@
 | **小栗子系列** | Panda、小栗子、QY |
 | **其他** | Oiva |
 
+
 ---
 
 ## 🚀 快速开始
@@ -72,16 +80,10 @@
 将 `小梦.dll` 放入机器人框架的**插件目录**，重启框架即可自动加载。
 
 ### 3. 召唤菜单
-在 QQ 群中发送：
-```
-小梦菜单
-```
+在 QQ 群中发送：小梦菜单
 
-### 4. 绑定QQ账号
-官方系列框架请先发送：
-```
-绑定
-```
+### 4. 如需绑定 QQ账号
+请先发送：绑定
 
 ---
 
@@ -93,7 +95,6 @@
 | :--- | :--- |
 | **梦幻框架** | `小梦.dll` → `cc.hanghang.xiaomeng.dll` |
 | **MQ 系列框架** | `小梦.dll` → `小梦.mq.dll` |
-| **官方系列框架** | 无需改名，但需发送 `绑定` 指令 |
 
 ---
 
@@ -103,13 +104,16 @@
 | :--- | :--- |
 | 📖 **Wiki 文档** | [访问 Wiki](https://github.com/HANG-XM/XIAOMENG/wiki) |
 | 🐛 **问题反馈** | [提交 Issue](https://github.com/HANG-XM/XIAOMENG/issues) |
-| 💬 **交流群** | 954540344 · 624743183 |
+| 💬 **交流群一** | [点击加群](https://qm.qq.com/q/n8LIfBWisg) · 954540344 |
+| 💬 **交流群二** | [点击加群](https://qm.qq.com/q/2fvmtN64fK) · 624743183 |
+| ☕ **赞助支持** | [爱发电 · 请我喝杯奶茶](https://afdian.com/a/awanxm) |
 
 ---
 
 ## ⚠️ 免责声明
 
 **请不要使用小梦进行违法违规行为。** 本项目仅供学习与交流，使用者需自行承担一切法律责任。
+
 
 ---
 
@@ -128,10 +132,13 @@
 - [Slack](https://slack.com/)
 - [voce.chat](https://voce.chat/)
 
+
 ---
 
 <div align="center">
 
 **⭐ 如果觉得小梦对你有帮助，欢迎给个 Star！**
+
+☕ 也欢迎 [请我喝杯奶茶](https://afdian.com/a/awanxm) ～
 
 </div>
